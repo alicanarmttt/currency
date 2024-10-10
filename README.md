@@ -1,8 +1,3 @@
-# React + Vite
+This is a simple Currency Conversion Application built using React and Axios to fetch exchange rates from the FreeCurrencyAPI. The app allows users to input an amount, select a base currency, and a target currency, then it fetches the current exchange rate and calculates the converted amount. The interface includes input fields for selecting currencies and a button to perform the conversion. The result is displayed in real-time based on the selected currencies and the amount entered.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/7caf7eac-1e9e-47e2-9dc8-35439459c349)
